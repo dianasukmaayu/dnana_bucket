@@ -2,18 +2,18 @@
 const produk = [
     {
         nama: "Flower Bouquet",
-        gambar: "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600",
+        gambar: "WhatsApp Image 2026-11-16 at 19.26.55.jpeg",
         deskripsi: "Buket bunga cantik untuk orang tersayang."
     },
     {
-        nama: "Sweet Bouquet",
-        gambar: "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?w=600",
-        deskripsi: "Buket unik untuk hadiah spesial."
+        nama: "pricelist dnana bucket",
+        gambar: "WhatsApp Image 2026-11-16 at 19.26.16.jpeg",
+        deskripsi: "ingin mengetahui harga bucket? hubungi kami untuk informasi harga dan pemesanan."
     },
     {
         nama: "Custom Bouquet",
-        gambar: "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=600",
-        deskripsi: "Buket sesuai warna dan keinginanmu."
+        gambar: "WhatsApp Image 2026-11-16 at 19.26.24.jpeg",
+        deskripsi: "Buket yang cantik dan sesuai keinginanmu."
     }
 ];
 
@@ -42,4 +42,4 @@ menuBtn.addEventListener("click", function() {
 });
 
 // TAHUN OTOMATIS
-console.log("Selamat datang di Dnana Bucket!");
+console.log("Selamat datang di dnana bucket, kasih kado terindah untuk kesayanganmu melalui dnana bucket!");
