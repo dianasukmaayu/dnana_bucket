@@ -7,7 +7,7 @@ const produk = [
     },
     {
         nama: "pricelist dnana bucket",
-        gambar: "WhatsApp Image 2026-11-16 at 19.26.16.jpeg",
+        gambar: "WhatsApp Image 2026-11-16 at 19.46.16.jpeg",
         deskripsi: "ingin mengetahui harga bucket? hubungi kami untuk informasi harga dan pemesanan."
     },
     {
